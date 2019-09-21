@@ -9,8 +9,12 @@ strings = ["dog", "gdo", "god", "god", "godd", "good", "paternal", "yellow","par
 L'output dovrebbe essere:
 
 dog,god,gdo,god
+
 godd
+
 good
+
 paternal,parental
+
 yellow
 
